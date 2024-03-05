@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|c:\\users\\gusta\\onedrive\\\u00E1rea de trabalho\\projetos gustavo\\appfulldent\\appfulldent\\informacao.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|solutionrelative:appfulldent\\informacao.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\appfulldent\\informacao.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|solutionrelative:appfulldent\\informacao.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|c:\\users\\gusta\\onedrive\\\u00E1rea de trabalho\\projetos gustavo\\appfulldent\\appfulldent\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|solutionrelative:appfulldent\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\appfulldent\\cadastroclinica.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|solutionrelative:appfulldent\\cadastroclinica.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\appfulldent\\service\\agendamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|solutionrelative:appfulldent\\service\\agendamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\appfulldent\\service\\clinicaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|solutionrelative:appfulldent\\service\\clinicaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\appfulldent\\service\\dentistaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|solutionrelative:appfulldent\\service\\dentistaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\appfulldent\\dao\\agendamentodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|solutionrelative:appfulldent\\dao\\agendamentodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\appfulldent\\dao\\clinicadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|solutionrelative:appfulldent\\dao\\clinicadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\appfulldent\\agendamento.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|solutionrelative:appfulldent\\agendamento.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\appfulldent\\agendamento.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|solutionrelative:appfulldent\\agendamento.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\appfulldent\\dao\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|solutionrelative:appfulldent\\dao\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\appfulldent\\dao\\procedimentodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|solutionrelative:appfulldent\\dao\\procedimentodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\DAO\\DentistaDAO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52DD359-0E70-4C99-998A-30FDEF06090D}|AppFullDent\\AppFullDent.csproj|solutionrelative:AppFullDent\\DAO\\DentistaDAO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Informacao.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\Informacao.aspx.cs",
+              "RelativeDocumentMoniker": "AppFullDent\\Informacao.aspx.cs",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\Informacao.aspx.cs",
+              "RelativeToolTip": "AppFullDent\\Informacao.aspx.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAiwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T19:00:06.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CadastroClinica.aspx",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\CadastroClinica.aspx",
+              "RelativeDocumentMoniker": "AppFullDent\\CadastroClinica.aspx",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\CadastroClinica.aspx",
+              "RelativeToolTip": "AppFullDent\\CadastroClinica.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-24T16:35:28.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Informacao.aspx",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\Informacao.aspx",
+              "RelativeDocumentMoniker": "AppFullDent\\Informacao.aspx",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\Informacao.aspx",
+              "RelativeToolTip": "AppFullDent\\Informacao.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-24T16:34:08.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DentistaService.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\service\\DentistaService.cs",
+              "RelativeDocumentMoniker": "AppFullDent\\service\\DentistaService.cs",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\service\\DentistaService.cs",
+              "RelativeToolTip": "AppFullDent\\service\\DentistaService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T14:55:25.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClinicaService.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\service\\ClinicaService.cs",
+              "RelativeDocumentMoniker": "AppFullDent\\service\\ClinicaService.cs",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\service\\ClinicaService.cs",
+              "RelativeToolTip": "AppFullDent\\service\\ClinicaService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAADoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T14:16:54.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgendamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\service\\AgendamentoService.cs",
+              "RelativeDocumentMoniker": "AppFullDent\\service\\AgendamentoService.cs",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\service\\AgendamentoService.cs",
+              "RelativeToolTip": "AppFullDent\\service\\AgendamentoService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T13:58:23.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\Web.config",
+              "RelativeDocumentMoniker": "AppFullDent\\Web.config",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\Web.config",
+              "RelativeToolTip": "AppFullDent\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-24T12:36:34.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Agendamento.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\Agendamento.aspx.cs",
+              "RelativeDocumentMoniker": "AppFullDent\\Agendamento.aspx.cs",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\Agendamento.aspx.cs",
+              "RelativeToolTip": "AppFullDent\\Agendamento.aspx.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAiwIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T13:56:13.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Agendamento.aspx",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\Agendamento.aspx",
+              "RelativeDocumentMoniker": "AppFullDent\\Agendamento.aspx",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\Agendamento.aspx",
+              "RelativeToolTip": "AppFullDent\\Agendamento.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-24T13:54:10.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgendamentoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\DAO\\AgendamentoDAO.cs",
+              "RelativeDocumentMoniker": "AppFullDent\\DAO\\AgendamentoDAO.cs",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\DAO\\AgendamentoDAO.cs",
+              "RelativeToolTip": "AppFullDent\\DAO\\AgendamentoDAO.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T12:40:17.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClinicaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\DAO\\ClinicaDAO.cs",
+              "RelativeDocumentMoniker": "AppFullDent\\DAO\\ClinicaDAO.cs",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\DAO\\ClinicaDAO.cs",
+              "RelativeToolTip": "AppFullDent\\DAO\\ClinicaDAO.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAiwEoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T11:42:05.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\DAO\\Conexao.cs",
+              "RelativeDocumentMoniker": "AppFullDent\\DAO\\Conexao.cs",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\DAO\\Conexao.cs",
+              "RelativeToolTip": "AppFullDent\\DAO\\Conexao.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T12:35:38.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProcedimentoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\DAO\\ProcedimentoDAO.cs",
+              "RelativeDocumentMoniker": "AppFullDent\\DAO\\ProcedimentoDAO.cs",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\DAO\\ProcedimentoDAO.cs",
+              "RelativeToolTip": "AppFullDent\\DAO\\ProcedimentoDAO.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwCkAAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T11:44:21.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DentistaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\DAO\\DentistaDAO.cs",
+              "RelativeDocumentMoniker": "AppFullDent\\DAO\\DentistaDAO.cs",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\Projetos Gustavo\\AppFullDent\\AppFullDent\\DAO\\DentistaDAO.cs",
+              "RelativeToolTip": "AppFullDent\\DAO\\DentistaDAO.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAiwFMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T20:00:28.056Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

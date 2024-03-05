@@ -1,0 +1,45 @@
+﻿using AppFullDent.DAO;
+using AppFullDent.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+namespace AppFullDent
+{
+	public partial class WebForm4 : System.Web.UI.Page
+	{
+		protected void Page_Load(object sender, EventArgs e)
+		{
+
+		}
+		protected void btnSubmit_Click(object sender, EventArgs e)
+		{
+			AgendamentoDAO agendamentoDAO = new AgendamentoDAO();
+			string Phone = txtTelefone.Text;
+			List<Agendamento> agendamento = agendamentoDAO.GetTelefone(Phone);
+			GridView1.DataSource = agendamento;
+			GridView1.DataBind();
+		}
+		protected void btnExcluir_Click(object sender, EventArgs e)
+		{
+			try {
+                if (GridView1.SelectedIndex >= 0 && GridView1.SelectedRow != null)
+                {
+                    AgendamentoDAO agendamentoDAO = new AgendamentoDAO();
+                    string Nome = GridView1.SelectedRow.Cells[0].Text;
+                    agendamentoDAO.Delete(Nome);
+                }
+                
+            }catch (Exception ex)
+            {
+                throw ex;
+            }
+
+
+
+        }
+        }
+}
